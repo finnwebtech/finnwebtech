@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @finnwebtech
+- 👀 I’m interested in learning new technologie and libarys.
+- 🌱 I’m currently learning ether.js
+- 📫 How to reach me write@finnweb.tech
